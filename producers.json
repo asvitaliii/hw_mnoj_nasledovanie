@@ -1,0 +1,1 @@
+{"producers": [{"name": "Pepsi", "rating": 75}, {"name": "BMW", "rating": 66}, {"name": "Danon", "rate": "65"}], "products": [{"name": "water", "producer": "Pepsi"}, {"name": "milk", "producer": "Danon"}, {"name": "car", "producer": "BMW"}]}
